@@ -132,6 +132,11 @@ body{
     margin: 20px 0;
 }
 
+p.forgetPassword a{
+    color: #0C2A48;
+    letter-spacing: normal;
+}
+
 .social-icons a{
     border: 1px solid #C0C7CF;
     border-radius: 20%;
