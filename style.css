@@ -151,6 +151,8 @@ p.forgetPassword a{
 
 .social-icons a:hover {
     background-color: #001F3F;
+    color: #fff;
+    border: none;
 }
 
 .toggle-container{
